@@ -28,7 +28,5 @@
 [![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)](https://github.com/levyviktor)
 [![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://github.com/levyviktor)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ajjusxjhlwvrqzjmo4q3lbncey&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/levyviktor/spotify-github-profile)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67159C&height=120&section=footer"/>
